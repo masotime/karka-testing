@@ -1,0 +1,14 @@
+{
+  "name": "karka-testing",
+  "version": "0.0.1",
+  "description": "Fiddling with karka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Goh <bengoh@paypal.com>",
+  "license": "ISC",
+  "dependencies": {
+    "karka": "0.0.1"
+  }
+}
